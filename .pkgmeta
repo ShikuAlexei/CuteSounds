@@ -1,0 +1,5 @@
+enable-nolib-creation: no
+package-as: CuteSounds
+
+move-folders:
+   CuteSounds/CuteSounds : CuteSounds

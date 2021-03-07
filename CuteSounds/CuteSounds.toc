@@ -1,0 +1,6 @@
+## Interface: 90002
+## Title : CuteSounds
+## Notes: Custom Weak Aura sounds for myself and friends
+## Author: RipsaTV
+CuteSounds.xml
+CuteSounds.lua
